@@ -1,7 +1,7 @@
 {
     "workspaces": [
-        "logging-index",
-        "service"
+        "modules/logging-index",
+        "modules/service"
     ],
     "devDependencies": {
         "@semantic-release/changelog": "^6.0.1",
